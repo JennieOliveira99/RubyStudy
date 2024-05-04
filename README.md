@@ -14,6 +14,21 @@
 ## ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
 
 Este projeto consiste principalmente em scripts e arquivos relacionados ao estudo da linguagem de programação Ruby.
+
+## 💻 Ambiente de Desenvolvimento
+
+Se você está se perguntando qual é o ambiente de desenvolvimento que estou usando para meus estudos em Ruby, aqui está:
+
+- **Sistema Operacional:** [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-20.3-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)](https://linuxmint.com/)
+  
+- **Editor de Código:** [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1.65.1-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+- **Controle de Versão:** [![Git](https://img.shields.io/badge/Git-2.35.1-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  
+- **Plataforma de Hospedagem de Código:** [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JennieOliveira99)
+
+Eu escolhi o Linux Mint como meu sistema operacional por sua estabilidade e facilidade de uso, e o Visual Studio Code como meu editor de código principal por sua extensibilidade e suporte integrado para Ruby e outras linguagens de programação. Uso Git e GitHub para controle de versão e hospedagem de código, respectivamente.
+
 ## 🌐 Desenvolvimento Web com Ruby
 
 Se o seu objetivo é aprender Ruby para desenvolvimento web, você está no lugar certo! Ruby oferece várias estruturas e ferramentas populares para desenvolver aplicativos web. Aqui estão algumas das principais tecnologias que você pode explorar:
