@@ -7,3 +7,4 @@ idade=gets.chomp
 puts "seu nome é: " + nome + " e sua idade é: " + idade
 
 # um comentario
+
