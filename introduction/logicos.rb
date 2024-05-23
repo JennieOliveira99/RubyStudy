@@ -13,7 +13,7 @@ v3 = 2
 v4 = 7
 
 if (v1 > v2) and (v3 < v4)
-    puts "A condiao é atendida nos dois casos"
+    puts "A condicao é atendida nos dois casos"
 else 
     puts "condicao nao atendida"
 end
