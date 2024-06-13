@@ -1,0 +1,47 @@
+PROGRAMAÇÃO ORIENTADA A OBJETOS - INTRODUÇÃO
+
+  Oque é?
+
+
+  POO é um paradigma para o desenvolvimento de software que se utiliza componentes individuais(objetos)
+  - Regra diferente para se programar
+Agentes autonomos que interagem entre si atraves de mensagens
+  possui:
+  classes
+  objetos
+  encapsulamento
+  heranca 
+  Polimorfismo
+  Abstração etc
+
+
+**Abstração:
+Precisa imaginar o objeto
+-Identidade unica (nome)
+-Atributos (caracteristicas)
+-Métodos (acoes)
+
+**Encapsulamento:
+-Esconder as propriedades dos objetos para reforçar a segurança
+-Só mostra as propriedades
+
+**Herança
+-Reuso de código
+
+**Polimorfismo:
+-Capacidades de referenciar um objeto de varias formas 
+
+  Fundamentos da orientação a objetos:
+  *Qualquer coisa é um objeto
+  Objetos realizam tarefas através da requisição de serviços de outros objetos
+  Cada objeto pertence a uma determinada classe, uma classe agrupa objetos similares
+  A classe é um repositório para comportamento associado ao objeto
+  classes são organizadas em hierarquias
+
+  Tipos de paradigmas:
+  paradigma procedural
+  orientado a objetos
+  paradigma funcional
+
+
+
